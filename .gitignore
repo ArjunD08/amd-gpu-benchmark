@@ -12,8 +12,6 @@ env/
 .ipynb_checkpoints/
 
 # Benchmark outputs
-results/*.csv
-plots/*.png
 
 # IDE settings
 .vscode/

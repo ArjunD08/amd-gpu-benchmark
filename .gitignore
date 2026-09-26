@@ -1,17 +1,23 @@
+# Python
 __pycache__/
 *.py[cod]
 
+# Virtual environments
 .venv/
 venv/
 env/
 .env
 
+# Jupyter
 .ipynb_checkpoints/
 
+# Benchmark outputs
 results/*.csv
 plots/*.png
 
+# IDE settings
 .vscode/
 .idea/
 
+# Logs
 *.log
